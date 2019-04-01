@@ -1,0 +1,19 @@
+{
+  "name": "microservices-nodejs",
+  "version": "1.0.0",
+  "description": "Microservice NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Microservices",
+    "NodeJS"
+  ],
+  "author": "Abhishek Bharti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
